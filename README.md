@@ -5,8 +5,8 @@ The BiFPN without attention module is placed at the net folder, named as BIFPN1w
 THe iteration of BIFPN with attention is named as BIFPNS_att, placed at the net folder.
 Test images are included at the img file.
 
-# please change the module at yolo file. Add the trained module name at the module location.
-# Run get_map.py to get the evaluation index.
-# Run predict.py to get the image results.
+please change the module at yolo file. Add the trained module name at the module location.
+Run get_map.py to get the evaluation index.
+Run predict.py to get the image results.
 
-Thanks bublingling for poviding the original yolox code. The description as 
+Thanks bubbliiiing for poviding the original yolox code. 
